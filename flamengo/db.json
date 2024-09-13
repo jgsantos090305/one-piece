@@ -1,0 +1,29 @@
+{
+    "produtos": [
+        {
+        "id":1,
+        "name": "camisa masculina branca",
+        "price": 256.00,
+        "image": "camisa-reserva-branco.jpg"
+    },
+    {
+        "id":2,
+        "name": "camisa masculina rosa",
+        "price": 170.00,
+        "image": "camisa-rosa.jfif"
+    },
+    {
+        "id":3,
+        "name": "camisa masculina preta",
+        "price": 310.00,
+        "image": "camisa-preta.jpg"
+    },
+    {
+        "id":4,
+        "name": "calçao  branco",
+        "price": 87.00,
+        "image": "calcao-branco"
+    }
+
+    ]
+}
